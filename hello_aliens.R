@@ -1,5 +1,5 @@
-print("We were just about to lose our home,
-Diamonds ate the radio
+cat("were just about to lose our home
+      Diamonds ate the radio
       Moving in the dead of night
       We took photographs just some just so
       History has some to know
@@ -59,4 +59,8 @@ Diamonds ate the radio
       Over Asia
       Crossing ages
       Just an alien
-      Oh, we just want to get home again")
+      Oh, we just want to get home again
+    
+    
+    
+      ----- Coldplay")
