@@ -1,0 +1,11 @@
+---
+title: "gjiang_36350_final_prob20"
+author: "Guoyi Jiang"
+date: "12/9/2017"
+output: html_document
+---
+
+```{r}
+cat('well this is bad')
+```
+
