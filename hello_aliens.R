@@ -24,7 +24,7 @@ Diamonds ate the radio
       
       [Pre-Chorus]
       Fly if you want to
-      That's alright
+      That's alright 
       But if you want to
       Call me
       Call this line
