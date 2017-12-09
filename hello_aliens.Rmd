@@ -6,6 +6,6 @@ output: html_document
 ---
 
 ```{r}
-cat('well this is bad')
+cat('well this is bad, really bad')
 ```
 
